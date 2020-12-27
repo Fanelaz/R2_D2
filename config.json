@@ -1,0 +1,24 @@
+{
+  "ownerId": "615491122227052544",
+  "ownerTag": "Fanelaz#0001",
+
+  "token": "NzkyMzE2MTI0NzIxMTg0Nzkx.X-b75A.ST2s_Rkzhdmk2UVRwOUAeVVqN7Q",
+  "BotID": "751730903566516334",
+  "version": "0.0.1",
+  "NomBot": "R2-D2",
+  "footer": "R2-D2 © 2020",
+
+
+  "ANTI_INSULTE" : ["putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
+
+  "NomServeur": "R2-D2",
+  "Support": "https://discord.gg/eGcmu98WuS",
+  "bugReportChannelId": "792665845863022603",
+  "modlogChannelId": "792665849009668106",
+  "feedbackChannelId": "792665847247274014",
+  "suggestChannelId": "792665878964731905",
+  "apiKeys": {
+    "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
+    "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
+  }
+}
